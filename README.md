@@ -19,5 +19,6 @@ qq714094450
 
 参考:
 
-https://www.cnblogs.com/dongweiq/p/4515186.html
-http://www.52im.net/thread-825-1-1.html
+* https://www.cnblogs.com/dongweiq/p/4515186.html
+
+* http://www.52im.net/thread-825-1-1.html
