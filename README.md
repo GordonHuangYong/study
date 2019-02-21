@@ -15,3 +15,9 @@ testCordova是cordova的学习目录。
 有任何疑问请关注我的博客，可留言http://www.cnblogs.com/dongweiq/
 
 qq714094450
+
+
+参考:
+
+https://www.cnblogs.com/dongweiq/p/4515186.html
+http://www.52im.net/thread-825-1-1.html
